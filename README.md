@@ -32,7 +32,8 @@ sol=np.linalg.matrix_rank(A)
 print(sol)
 ```
 ## Output:
-<img width="395" height="215" alt="Screenshot 2025-08-14 094520" src="https://github.com/user-attachments/assets/ae62c4bf-1a77-40ea-aa87-f1a52266341a" />
+<img width="449" height="431" alt="Screenshot 2025-09-02 143339" src="https://github.com/user-attachments/assets/d9996d9a-92e5-4f4a-a5b5-bcae96aaebf4" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
